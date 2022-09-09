@@ -10,6 +10,12 @@ And if you want to do arduino project you need:
 I would love to find a way for 6.3mm jack to be connected to arduino in low cost and world accessible ways in my project.
 
 
+Some Link:
+- https://a360.co/3QyevZl
+- https://a360.co/3qnTExb
+- https://a360.co/3BbDYSK
+- https://a360.co/3DczC04
+
 # V0: 8mm magnets connector
 ![image](https://user-images.githubusercontent.com/106495897/188289664-5c8f2698-4632-4b23-849c-7d36535a0b55.png)
 ![image](https://user-images.githubusercontent.com/106495897/188289673-b8290138-a575-4e97-a7d7-00a65fd5815a.png)

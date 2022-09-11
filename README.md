@@ -31,6 +31,13 @@ Some Link:
 ![image](https://user-images.githubusercontent.com/106495897/189447447-2009fc43-21b6-4ade-97c3-f9ae6b8454f9.png)
 ![image](https://user-images.githubusercontent.com/106495897/189447271-27deabbd-ccb9-4b10-a25a-b7a302c61dcb.png)
 
+# V5: Magnet Connector
+V4 was good but fail several time to print. So I did this corrected version.
+
+![image](https://user-images.githubusercontent.com/106495897/189537651-44ab535f-8b2b-489c-99b7-a504771c53dd.png)  
+![image](https://user-images.githubusercontent.com/106495897/189537672-ef30ec0e-4585-4476-8dff-9e81f4ce6d90.png)  
+
+
 
 ## 2x10mm magnet
 
